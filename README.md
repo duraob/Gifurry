@@ -2,7 +2,7 @@
 _buildspace - web3 Read/Write Solana Blockchain Project  
   
 -- DEMO --  
-![Gifurry Live Demn](/GifurryDemo.gif)  
+![Gifurry Live Demo](/Demo.gif)  
   
 **WARNING -- DO NOT SEND LIVE FUNDS TO THIS ADDRESS -- SITE USES SOLANA DEVNET CHAIN **  
 [Gifurry](https://jetgoof.github.io/Gifurry/)  
