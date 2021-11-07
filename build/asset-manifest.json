@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Gifurry/static/css/main.d2c675b5.chunk.css",
+    "main.js": "/Gifurry/static/js/main.2b6bdccb.chunk.js",
+    "main.js.map": "/Gifurry/static/js/main.2b6bdccb.chunk.js.map",
+    "runtime-main.js": "/Gifurry/static/js/runtime-main.9ecf9cd0.js",
+    "runtime-main.js.map": "/Gifurry/static/js/runtime-main.9ecf9cd0.js.map",
+    "static/js/2.1dc1b2d6.chunk.js": "/Gifurry/static/js/2.1dc1b2d6.chunk.js",
+    "static/js/2.1dc1b2d6.chunk.js.map": "/Gifurry/static/js/2.1dc1b2d6.chunk.js.map",
+    "index.html": "/Gifurry/index.html",
+    "static/css/main.d2c675b5.chunk.css.map": "/Gifurry/static/css/main.d2c675b5.chunk.css.map",
+    "static/js/2.1dc1b2d6.chunk.js.LICENSE.txt": "/Gifurry/static/js/2.1dc1b2d6.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.d89d9a86.svg": "/Gifurry/static/media/twitter-logo.d89d9a86.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ecf9cd0.js",
+    "static/js/2.1dc1b2d6.chunk.js",
+    "static/css/main.d2c675b5.chunk.css",
+    "static/js/main.2b6bdccb.chunk.js"
+  ]
+}
